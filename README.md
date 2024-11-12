@@ -4,6 +4,7 @@ I'm learning about application for mobilephone.
 
 今一番力を入れて開発しているプロジェクト:
   - Makers
+
 進行中のプロジェクト:
   - Makers
   - Segon_pix
