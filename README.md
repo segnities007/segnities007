@@ -2,12 +2,6 @@
 
 I'm learning about application for mobilephone.
 
-今一番力を入れて開発しているプロジェクト:
-  - Makers
-
-進行中のプロジェクト:
-  - Makers
-  - Segon_pix
 <!--
 **segnities007/segnities007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
