@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm learning about application for mobilephone.
+I am primarily learning mobile app development.
 
 <!--
 **segnities007/segnities007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
